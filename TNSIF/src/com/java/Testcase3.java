@@ -18,10 +18,10 @@ public class Testcase3 {
 				else if(j==1) {
 					System.out.print(i);
 				}
-				else if(i==5) {
+				else if(i==n) {
 					System.out.print(i-j+k);
 				}
-				else if(j==5) {
+				else if(j==n) {
 					System.out.print(j-i+k);
 				}
 				else {
